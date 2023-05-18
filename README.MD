@@ -10,3 +10,8 @@
 
 
 #PyPoll
+# count how many votes were casted
+# how many condidates were there
+# show what % of votes for each candidates
+# show number of votes for each candidates
+# and then the winner-candidate with the most votes!
